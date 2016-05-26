@@ -1,0 +1,9 @@
+{
+  "name": "tlds",
+  "main": "index.d.ts",
+  "version": "^1.0.0",
+  "homepage": "https://github.com/stephenmathieson/node-tlds",
+  "globalDevDependencies": {
+    "node": "registry:env/node#4.0.0+20160507210304"
+  }
+}
